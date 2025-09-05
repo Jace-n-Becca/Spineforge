@@ -1,1 +1,13 @@
+# Ignore archive bundles
 *.zip
+*.tar
+*.gz
+
+# Ignore logs
+*.log
+
+# Ignore system/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
