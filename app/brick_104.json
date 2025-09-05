@@ -1,0 +1,11 @@
+{
+  "title": "Tavern - Message Board Assets (final)",
+  "includes": [
+    "Wood textures",
+    "Pin styles",
+    "Winged Tips visuals"
+  ],
+  "status": "Synced",
+  "type": "Visual UI Component",
+  "domain": "Brasshoof\u2019s Tavern"
+}

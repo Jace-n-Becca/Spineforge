@@ -1,0 +1,12 @@
+{
+  "type": "progress_bundle",
+  "label": "Character Lore & Anchoring",
+  "included": [
+    "Char_Core_Definition",
+    "Seraphine_ScrollLogic",
+    "Brasshoof_Backstory",
+    "Wartimus_Familiar_Vault",
+    "Puddingwing_Quotes",
+    "Belladonna_MeowHooks"
+  ]
+}

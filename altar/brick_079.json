@@ -1,0 +1,14 @@
+{
+  "id": 79,
+  "title": "The Fog Hall Ritual",
+  "type": "ritual",
+  "summary": "Shadow work scene using uploaded \u2018Fog_Hall\u2019 images\u2014users light a single candle to confront unseen fears.",
+  "location": "Sanctum - Ritual Hall",
+  "trigger": "During waning moon",
+  "visual_reference": "Fog_Hall.jpeg",
+  "instructions": [
+    "Place one intention in the flame.",
+    "Whisper what you won\u2019t carry anymore.",
+    "Watch the fog move. If it parts\u2014you\u2019re ready."
+  ]
+}

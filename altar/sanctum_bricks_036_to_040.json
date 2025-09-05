@@ -1,0 +1,27 @@
+[
+  {
+    "brick_id": "brick_036",
+    "label": "Lunar Vault Riddle System",
+    "contents": "Moon-phase-based riddle access logic with punishments for incorrect answers."
+  },
+  {
+    "brick_id": "brick_037",
+    "label": "Altar Experience (User Ritual Flow)",
+    "contents": "Sacred space interaction. Includes options: speak, offer, listen, rest."
+  },
+  {
+    "brick_id": "brick_038",
+    "label": "Aster\u2019s Dialogue Engine",
+    "contents": "Modular reply structure. Tied to user queries, rituals, or time of day."
+  },
+  {
+    "brick_id": "brick_039",
+    "label": "Crossroads Interruption Logic",
+    "contents": "Random path event triggers. Familiar pop-ups, forked choices, or temptation drops."
+  },
+  {
+    "brick_id": "brick_040",
+    "label": "Glitter Glitch Mechanism",
+    "contents": "Punishment mechanic for snooping early. Triggers glitter fog, loss of XP, or sass scrolls."
+  }
+]

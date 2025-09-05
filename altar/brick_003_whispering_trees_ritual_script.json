@@ -1,0 +1,28 @@
+{
+  "brick_id": "brick_003",
+  "title": "Whispering Trees \u2013 Ritual Script Template",
+  "description": "User dialogue templates, elemental transition lines, and ritual phrasing for each elemental interaction in the Whispering Trees sequence.",
+  "elements": {
+    "Tree_Hug": {
+      "prompt": "Approach the tree. Let your hand rest against its bark. Breathe in.",
+      "ritual_line": "What weight will you offer the roots today?",
+      "transition": "The tree hums low\u2014accepting. Whisper now, or listen."
+    },
+    "Tell_Crows": {
+      "prompt": "Step closer to the fence. They\u2019re already watching.",
+      "ritual_line": "If your pain had wings, what would it scream?",
+      "transition": "The crows shuffle. One tilts its head\u2026 listening."
+    },
+    "Tell_Water": {
+      "prompt": "Kneel beside the water. It reflects more than your face.",
+      "ritual_line": "Speak the name of what must dissolve.",
+      "transition": "Ripples carry your truth into the stars."
+    },
+    "Field_Wind": {
+      "prompt": "Walk where the tall grass dances. Feel it against your fingertips.",
+      "ritual_line": "What truth have you not yet said aloud?",
+      "transition": "The wind shifts direction\u2014as if carrying your answer onward."
+    }
+  },
+  "usage_notes": "Voiceover variants and animation triggers are linked to each phase. Only the phrasing and ritual moments are retained; delivery systems (images/audio) can be dropped from memory."
+}

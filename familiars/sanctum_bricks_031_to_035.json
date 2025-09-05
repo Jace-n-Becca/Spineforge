@@ -1,0 +1,79 @@
+{
+  "brick_031": {
+    "label": "The Lantern Festival Trick",
+    "type": "Side Quest",
+    "status": "locked",
+    "location": "Moonlit Market",
+    "summary": "A talisman goes missing in the chaos of the lantern festival. Iggy swears it wasn\u2019t her, but the scorch marks say otherwise.",
+    "assets": [
+      "Festival_Chase.jpeg",
+      "Talisman_Charm.jpeg"
+    ],
+    "connected_familiars": [
+      "Iggy Flame"
+    ],
+    "mood": "chaotic + festive"
+  },
+  "brick_032": {
+    "label": "The Dilluminati Files",
+    "type": "Side Quest",
+    "status": "locked",
+    "location": "Brasshoof's Tavern + Swamp Trail",
+    "summary": "Wartimus has been hoarding pickles again, but some of them are encoded messages. Someone's watching.",
+    "assets": [
+      "Wartimus_Tavern.jpeg",
+      "Pickle_Barrel.jpeg"
+    ],
+    "connected_familiars": [
+      "Wartimus"
+    ],
+    "mood": "swampy + suspicious"
+  },
+  "brick_033": {
+    "label": "Whispers from the Vale",
+    "type": "Lore Expansion",
+    "status": "locked",
+    "location": "Withering Vale",
+    "summary": "A sentient fog that speaks only in riddles slinks down the Vale each dusk. Few listen. Fewer return.",
+    "assets": [
+      "Fog_Hall.jpeg",
+      "Vale_Moon.jpeg"
+    ],
+    "connected_characters": [
+      "Oswald"
+    ],
+    "mood": "somber + poetic"
+  },
+  "brick_034": {
+    "label": "The Familiar Ledger System",
+    "type": "Core System",
+    "status": "active",
+    "location": "Familiar Roost",
+    "summary": "Tracks user-familiar bonds, swaps, upgrades, and trust decay from betrayal or neglect.",
+    "assets": [
+      "Ledger_UI_Mockup.png"
+    ],
+    "connected_systems": [
+      "Sanctum Home",
+      "Roost",
+      "XP"
+    ],
+    "mood": "systematic + intuitive"
+  },
+  "brick_035": {
+    "label": "Char\u2019s Sass Vault",
+    "type": "Bonus Feature",
+    "status": "locked",
+    "location": "Lunar Vault (backroom)",
+    "summary": "Char\u2019s collected snark, sarcasm, side-eyes, and scorched comments\u2014unleashed at user behavior patterns or lunar triggers.",
+    "assets": [
+      "Char_Scroll_Snark.jpeg"
+    ],
+    "connected_mechanics": [
+      "Daily Login",
+      "Dragon Scales",
+      "Moon Phases"
+    ],
+    "mood": "sassy + volatile"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "brick_091",
+  "category": "Shadow Work",
+  "type": "Elemental Release",
+  "description": "Whisper to the Water \u2014 user confides a truth or burden to the water element. Reflections shimmer with mood.",
+  "elements": [
+    "water",
+    "reflection",
+    "release",
+    "ritual"
+  ],
+  "visuals": [
+    "Tell_Water_0.jpeg",
+    "Tell_Water_1.jpeg",
+    "Tell_Water_2.jpeg"
+  ],
+  "voiceover": "Speak it to the still surface\u2026 Let the tide carry it away."
+}

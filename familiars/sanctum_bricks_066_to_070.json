@@ -1,0 +1,71 @@
+{
+  "brick_066": {
+    "label": "Crossroads Pop-Up System",
+    "contents": {
+      "mechanic": "Occasionally appears while traveling any route.",
+      "trigger": "Glowing sigils swirl near user; ambient hum heard.",
+      "characters": [
+        "Char",
+        "Wingston",
+        "User's Familiar",
+        "Surprise NPC"
+      ],
+      "function": "Pauses the user\u2019s path with a question, choice, or reward.",
+      "mood": "Mystically disruptive, oddly serene.",
+      "visual_cue": "Floating sigils and faint shimmer."
+    }
+  },
+  "brick_067": {
+    "label": "The Witch\u2019s Warehouse \u2013 Seasonal Rotations",
+    "contents": {
+      "base": "Herbal, cozy, cobwebbed apothecary",
+      "rotating_stock": [
+        "Imbolc Candle Kits",
+        "Litha Sea Salt Soaks",
+        "Samhain Spirit Dice"
+      ],
+      "Char_note": "\"I reorganized the herbs alphabetically... based on how likely they are to start a fire.\"",
+      "mood": "Bustling communal magic. Spiced candle chaos."
+    }
+  },
+  "brick_068": {
+    "label": "Pettily-Ever-After: Clapback Spellbook",
+    "contents": {
+      "category": "Spite-driven microspells",
+      "examples": [
+        {
+          "title": "Slippery Tongue",
+          "effect": "Gossipers trip over their own words."
+        },
+        {
+          "title": "Itchy Trigger Finger",
+          "effect": "Exes feel compelled to send a risky text... to their boss."
+        },
+        {
+          "title": "Echo Chamber",
+          "effect": "Whatever insult they throw, they hear in their own voice all week."
+        }
+      ],
+      "Char_approval": true
+    }
+  },
+  "brick_069": {
+    "label": "The Glimmering Hourglass (Vault Reset)",
+    "contents": {
+      "location": "Lunar Vault",
+      "function": "Flips at each moon phase, unlocking rare spell.",
+      "guarded_by": "Char in a mood-appropriate scale shimmer",
+      "bonus": "If caught flipping\u2014users receive double reward or riddle challenge",
+      "visual": "Crystalline hourglass that pulses when near reset"
+    }
+  },
+  "brick_070": {
+    "label": "Seraphine\u2019s \u2018Table for Two\u2019 Tea Ritual",
+    "contents": {
+      "location": "Cottage Kitchen",
+      "feature": "Users sit across from Seraphine with floating tea & tarot cards",
+      "mood": "Sultry but sincere; the veil is thinnest here",
+      "bonus": "Seraphine may reveal a secret unrelated to user\u2019s question... or a memory fragment of her past"
+    }
+  }
+}

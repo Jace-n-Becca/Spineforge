@@ -1,0 +1,32 @@
+[
+  {
+    "brick_id": "brick_041",
+    "label": "Sanctum \u2013 Familiar Index Setup",
+    "description": "Initial data structure for the Master Familiar Index, including name, species, roles, visuals.",
+    "content": "Full listing for Puddingwing, Wartimus, Nyx, and Gristlethorne."
+  },
+  {
+    "brick_id": "brick_042",
+    "label": "Sanctum \u2013 Familiar Bond Logic",
+    "description": "Connection system between users and familiars, with logic for primary/secondary bonds.",
+    "content": "Affinity-based match system with role reactivity."
+  },
+  {
+    "brick_id": "brick_043",
+    "label": "Sanctum \u2013 Lunar Vault Tier Access",
+    "description": "Breakdown of access by moon phase and tier system (free, earned, hidden).",
+    "content": "Gate logic and visuals for New Moon, Full Moon, etc."
+  },
+  {
+    "brick_id": "brick_044",
+    "label": "Sanctum \u2013 Whispering Trees Ritual Map",
+    "description": "Map of wind/water/tree/crow interactions and emotional trigger paths.",
+    "content": "Includes visual sequencing and moment mapping logic."
+  },
+  {
+    "brick_id": "brick_045",
+    "label": "Sanctum \u2013 Sass Deck: Char\u2019s Riddles & Whispers",
+    "description": "Char\u2019s moon-based sass/riddle deck connection points.",
+    "content": "Hook system to inject quotes and scale color logic."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 77,
+  "title": "Gristlethorne\u2019s Secret Stash",
+  "type": "side_quest",
+  "summary": "User must decode riddles left by Gristlethorne to unlock access to his golden-spiked stash.",
+  "location": "Familiar Roost",
+  "familiar": "Gristlethorne",
+  "steps": [
+    "Approach only during sunrise",
+    "Solve 3 riddles etched in acorn shells",
+    "Place a gold-tipped leaf on the moss mound",
+    "Receive a key with a sarcastic squeak"
+  ],
+  "reward": "Golden Satchel of Silenced Spikes"
+}

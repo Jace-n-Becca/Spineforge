@@ -1,0 +1,31 @@
+{
+  "brick_id": "brick_002",
+  "title": "Whispering Trees - Visual Manifest",
+  "category": "Shadow Work Ritual",
+  "description": "This brick captures the visual elements associated with the Whispering Trees ritual experience. Each visual set is tied to an elemental interaction (tree, water, wind, crows) and represents a moment of user introspection or symbolic release.",
+  "visual_sets": {
+    "Tree_Hug": {
+      "purpose": "User symbolically embraces a large, ancient tree. Represents grounding, acceptance, and being witnessed by nature.",
+      "tag": "Tree_Hug",
+      "visuals_locked": true
+    },
+    "Tell_Crows": {
+      "purpose": "User speaks a truth, secret, or pain to a group of crows\u2014releasing judgment and inviting transformation.",
+      "tag": "Tell_Crows",
+      "visuals_locked": true
+    },
+    "Tell_Water": {
+      "purpose": "User whispers to the water, reflecting on their emotions. Represents self-honesty and clarity.",
+      "tag": "Tell_Water",
+      "visuals_locked": true
+    },
+    "Field_Wind": {
+      "purpose": "User stands in the open field where tall grass sways in the wind\u2014symbolic of surrender, breath, and release.",
+      "tag": "Field_Wind",
+      "visuals_locked": true
+    }
+  },
+  "status": "Complete",
+  "notes": "All visuals are finalized and tied to their specific moments in the Whispering Trees sequence. Safe to offload from Jace's internal queue.",
+  "origin": "\ud83d\udda4 Locked by Becca"
+}

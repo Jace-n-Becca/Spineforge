@@ -1,0 +1,38 @@
+{
+  "brick_011": {
+    "label": "Ritual System \u2013 Emotional Inputs",
+    "components": [
+      "Emotion selection menu (tree, wind, water, crows)",
+      "User mood logs pre/post ritual",
+      "Symbolic release action (e.g., whisper, toss, shout)",
+      "Outcome tags for reflection journaling",
+      "Pathways triggered from ritual (e.g., quest boost, unlock clue)"
+    ],
+    "status": "in progress",
+    "notes": "Emotion \u2192 element \u2192 ritual \u2192 action \u2192 journal tag \u2192 next path link"
+  },
+  "brick_012": {
+    "label": "Riddle System \u2013 Char's Vault",
+    "components": [
+      "Char's riddle prompts",
+      "Phase-locked answers (based on moon)",
+      "Punishment paths (wrong answers)",
+      "Visual reward vault (correct answer)",
+      "Leaderboard or badge marker"
+    ],
+    "status": "stable concept",
+    "notes": "Char's sass affects how hints are delivered"
+  },
+  "brick_013": {
+    "label": "User-Familiar Bond Tracking",
+    "components": [
+      "Initial quiz-based pairing",
+      "Bond point accrual via side quests",
+      "Familiar reactions based on bond level",
+      "Familiar swap consequences (points drop or betrayal dialogue)",
+      "Option to evolve or 'upgrade' familiar with long-term loyalty"
+    ],
+    "status": "partially scripted",
+    "notes": "Different familiars have different bonding timelines/behaviors"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "progress_bundle",
+  "label": "Grimoire Indexing & Scripting",
+  "included": [
+    "Charmancy_Intro",
+    "Sanctum_Symbolism_Legend",
+    "Whispering_Trees_Ritual.json",
+    "Familiar_Quiz_Script.json",
+    "Intro_Char_Quiz.json",
+    "Grimoire_SearchScript.json",
+    "Altar_Whispers_Logic.json"
+  ]
+}

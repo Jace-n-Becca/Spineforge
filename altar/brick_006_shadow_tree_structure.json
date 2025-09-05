@@ -1,0 +1,68 @@
+{
+  "brick_id": "brick_006_shadow_tree_structure",
+  "title": "Whispering Trees Ritual Structure",
+  "domain": "Shadow Work",
+  "components": {
+    "entry_trigger": "User enters the Whispering Trees area via the Sanctum or Grimoire ritual path",
+    "environment": {
+      "elements": [
+        "trees",
+        "water",
+        "wind",
+        "crows"
+      ],
+      "visual_series": [
+        "Tree_Hug",
+        "Tell_Crows",
+        "Tell_Water",
+        "Field (Wind)"
+      ],
+      "tone": "Introspective, symbolic, ritualized"
+    },
+    "ritual_sequence": [
+      {
+        "step": 1,
+        "element": "Tree",
+        "action": "Embrace or receive wisdom",
+        "asset_tag": "Tree_Hug"
+      },
+      {
+        "step": 2,
+        "element": "Water",
+        "action": "Whisper reflection into the water",
+        "asset_tag": "Tell_Water"
+      },
+      {
+        "step": 3,
+        "element": "Wind",
+        "action": "Speak truth into the field",
+        "asset_tag": "Field"
+      },
+      {
+        "step": 4,
+        "element": "Crows",
+        "action": "Choose to let go or \u2018Tell the Crows\u2019",
+        "asset_tag": "Tell_Crows"
+      }
+    ],
+    "final_choice": [
+      "Let Go",
+      "Tell the Crows"
+    ],
+    "audio_layering": {
+      "whispers": "Voices layered softly based on element selected",
+      "ambient": "Tree creaks, crow caws, wind rustle, water trickle",
+      "optional_narration": true
+    }
+  },
+  "status": "Visuals locked. Ready for interaction scripting and mood-layering build.",
+  "linked_threads": [
+    "App Build Shadow Work / Whispering Trees"
+  ],
+  "file_origin_tags": [
+    "Tree_Hug",
+    "Tell_Crows",
+    "Tell_Water",
+    "Field_Still"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "brick_072",
+  "title": "Lunar Vault Gibbous Phases",
+  "waxing_gibbous": {
+    "char_quote": "Polish your potential. The moon\u2019s flexing and so should you.",
+    "scale_color": "fiery coral"
+  },
+  "waning_gibbous": {
+    "char_quote": "The tides of the cosmos are turning. Time to cut the crap and get to the point.",
+    "scale_color": "deep sea blue"
+  }
+}

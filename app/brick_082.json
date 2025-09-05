@@ -1,0 +1,12 @@
+{
+  "id": 82,
+  "title": "Familiars - Secret Affinities",
+  "content": {
+    "overview": "Each familiar has a hidden affinity unlocked during seasonal moon events.",
+    "examples": {
+      "Fenwick": "Autumn Equinox - Amplifies truth spells",
+      "Wartimus": "Summer Solstice - Doubles petty spell strength"
+    },
+    "mechanic": "Displayed only when certain environmental or emotional conditions are met."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "progress_bundle",
+  "label": "Sassy Systems (Snark, Sassfirmations, Curses)",
+  "included": [
+    "Char_Sass_Whispers.json",
+    "Char_Sass_Engine.json",
+    "Petty_Curses_Core.json",
+    "Mood_Quotes_Assigner.json",
+    "Daily_Sassfirmation_Generator.json"
+  ]
+}

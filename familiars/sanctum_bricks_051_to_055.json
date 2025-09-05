@@ -1,0 +1,57 @@
+{
+  "brick_051": {
+    "title": "Moonlit Market - Merchant Rotation Logic",
+    "type": "system_logic",
+    "description": "Defines the rotating schedule and triggered responses of Moonlit Market merchants, including rare or pop-up vendor appearances.",
+    "elements": [
+      "Daily merchant pool",
+      "Sabbat-aligned exclusives",
+      "Time-based availability (e.g., dusk to midnight)",
+      "Triggered pop-ups (e.g., from completed side quests)"
+    ]
+  },
+  "brick_052": {
+    "title": "Sassfirmation Scrolls - Delivery Mechanic",
+    "type": "UX_mechanic",
+    "description": "Determines how Char\u2019s sassfirmations are revealed: scroll animation, tap-trigger, dragon snort, etc.",
+    "elements": [
+      "Char snorts/puffs scroll into frame",
+      "Quote is visible, with optional fire-charred edges",
+      "Daily cooldown or randomness toggle",
+      "Categories: love, rage, shadow, mischief"
+    ]
+  },
+  "brick_053": {
+    "title": "Seraphine\u2019s Scroll Stack - Dynamic Filtering",
+    "type": "content_logic",
+    "description": "Allows scroll stack visuals to shift based on user filters: love, betrayal, destiny, zodiac sign, etc.",
+    "elements": [
+      "Crystal ball highlight",
+      "Animated sorting shimmer",
+      "User can pin a favorite scroll",
+      "Stack tied to celestial timer"
+    ]
+  },
+  "brick_054": {
+    "title": "Whispering Trees - Ritual Entry System",
+    "type": "ritual_access",
+    "description": "Defines entrypoint behavior: wind rustling, tree glow, crow caw, whisper audio cue, etc.",
+    "elements": [
+      "Unlocked by emotional trigger or timed window",
+      "Field shifts in lighting/atmosphere",
+      "Crow-shadow animation if user lingers",
+      "Bookmark system for reflection return"
+    ]
+  },
+  "brick_055": {
+    "title": "Sanctum Altar - Sacred Cycle Timer",
+    "type": "ritual_mechanic",
+    "description": "Hourglass-style timer tracking moon phases + Sabbat rituals. Hints when the altar has something new.",
+    "elements": [
+      "Visual timer near altar basin",
+      "Glowing hourglass flips on moon phase change",
+      "Interactive glow if user has unseen ritual",
+      "Locked during shadow periods unless override granted"
+    ]
+  }
+}

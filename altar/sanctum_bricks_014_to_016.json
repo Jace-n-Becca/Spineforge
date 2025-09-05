@@ -1,0 +1,71 @@
+{
+  "brick_014": {
+    "title": "Crossroads Event Mechanics",
+    "description": "Defines the mechanics of how the Crossroads appears across the map, what triggers it, and how familiars interact with it.",
+    "contents": {
+      "trigger_conditions": [
+        "Random moon phase check",
+        "User hits travel milestone",
+        "Internal chaos variable exceeds threshold"
+      ],
+      "familiar_interactions": [
+        "Wingston offers riddle scroll",
+        "Puddingwing delivers rumor",
+        "Nyx warns of hidden cost"
+      ],
+      "visuals": [
+        "twisting sigils in the path",
+        "eerie wind overlay",
+        "echoing whispers"
+      ],
+      "rule_of_three": {
+        "step_1": "atmospheric shift",
+        "step_2": "interruption by familiar or visual",
+        "step_3": "foreshadowing temptation ahead"
+      }
+    }
+  },
+  "brick_015": {
+    "title": "The Dilluminati Files",
+    "description": "Side quest: Wartimus the toad reveals pickle-fueled conspiracy theories hidden in barrels at the tavern and swamp.",
+    "contents": {
+      "locations": [
+        "Tavern (Pickle Barrel)",
+        "Swamp (Lily Pad Post)"
+      ],
+      "evidence": [
+        "glowing dill scrolls",
+        "pickles that whisper",
+        "tavern rumors from Brasshoof"
+      ],
+      "visual_asset_tags": [
+        "Wartimus_Home",
+        "Wartimus_Tavern",
+        "Pickle Barrel"
+      ],
+      "outcomes": [
+        "gain conspiracy buff",
+        "weaken trust in familiar network",
+        "trigger chaos critter swarm"
+      ]
+    }
+  },
+  "brick_016": {
+    "title": "Familiar Swapping & Bond Risk System",
+    "description": "System governing how users can swap familiars with narrative and mechanical consequences.",
+    "contents": {
+      "initial_warning": "You may swap your familiar... but bonds once severed don\u2019t mend so easily.",
+      "risks": [
+        "lose bonus XP tiers",
+        "lose unique memory-linked spells",
+        "familiar may appear hurt or distant"
+      ],
+      "swapping_method": {
+        "location": "The Menagerie",
+        "ritual_required": true,
+        "dialogue_with_Aster": true
+      },
+      "visual_indicator": "familiar fades slightly in grayscale before walking away"
+    }
+  }
+}

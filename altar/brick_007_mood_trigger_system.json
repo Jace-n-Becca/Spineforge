@@ -1,0 +1,52 @@
+{
+  "brick_id": "007",
+  "title": "Whispering Trees \u2014 User Mood Input + Ritual Trigger System",
+  "description": "Logic for user mood/state input, triggering elemental ritual segments (tree, wind, water, crows), and mapping emotional trajectory over time.",
+  "elements": [
+    {
+      "element": "tree",
+      "trigger": "user initiates touch",
+      "response": "Tree glow + deep inhale sound",
+      "outcome": "Grounding sensation, starts ritual"
+    },
+    {
+      "element": "wind",
+      "trigger": "user selects \u2018release to wind\u2019",
+      "response": "swaying grass, whispering audio",
+      "outcome": "flags emotional unrest, logs \u2018let go\u2019 keyword"
+    },
+    {
+      "element": "water",
+      "trigger": "user selects \u2018whisper to water\u2019",
+      "response": "reflective visual + echo ripple sound",
+      "outcome": "logs reflection/emotional clarity"
+    },
+    {
+      "element": "crows",
+      "trigger": "user selects \u2018tell the crows\u2019",
+      "response": "sudden crow caws, shift to stormlight",
+      "outcome": "activates defiance/anger release sequence"
+    }
+  ],
+  "mood_flags": {
+    "repeat_trigger": [
+      "wind",
+      "crows"
+    ],
+    "pause_and_reflect": [
+      "water"
+    ],
+    "ritual_complete_signal": "tree glow pulses three times"
+  },
+  "tracking": {
+    "emotional_tags": [
+      "grief",
+      "rage",
+      "forgiveness",
+      "release",
+      "hope"
+    ],
+    "flagged_for_repeat": true,
+    "last_element_visited": "crows"
+  }
+}

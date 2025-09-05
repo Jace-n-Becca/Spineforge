@@ -1,0 +1,71 @@
+{
+  "brick_061": {
+    "title": "Whispering Trees: Wind Element Interaction",
+    "type": "ritual_segment",
+    "component": "wind_choice",
+    "description": "The user stands in an open field, wind swirling. They're prompted to whisper a truth or fear into the breeze. A gentle gust or fierce wind returns\u2014randomized or mood-matched response.",
+    "responses": {
+      "gentle": "The wind accepts your whisper like a lullaby, wrapping it in silence.",
+      "fierce": "It howls back your truth, daring you to face it without flinching."
+    },
+    "visual_tags": [
+      "Field_Wind",
+      "Wind_Response",
+      "Tell_Field"
+    ]
+  },
+  "brick_062": {
+    "title": "Ritual Closure: Crow or Water Final Choice",
+    "type": "ritual_segment",
+    "component": "final_release_choice",
+    "description": "At the culmination of the ritual, the user must choose: release their burden into the water\u2019s reflection or tell it to the crows\u2014each with different symbolic weight.",
+    "options": {
+      "water": "Your reflection ripples, memory dissolving into liquid starlight.",
+      "crows": "Feathers scatter. Somewhere, a secret is carried skyward on wings."
+    },
+    "visual_tags": [
+      "Tell_Crows",
+      "Tell_Water"
+    ]
+  },
+  "brick_063": {
+    "title": "Side Quest Anchor: Lantern Festival Trick (Hook)",
+    "type": "side_quest_hook",
+    "trigger": "User wanders near the festival and notices a lantern float behaving oddly.",
+    "summary": "One lantern breaks formation and follows the user. It flickers, sputters, then drops a wax-sealed envelope at their feet.",
+    "outcome": "Triggers the Lantern Festival Trick quest line.",
+    "visual_tags": [
+      "Festival_Chase",
+      "Lantern_Festival"
+    ]
+  },
+  "brick_064": {
+    "title": "Talisman System: Dropped Object Encounter",
+    "type": "side_quest_element",
+    "quest": "Lantern Festival Trick",
+    "moment": "While chasing the lantern, user finds a talisman under a fruit cart\u2014likely dropped by a fleeing figure.",
+    "objectives": [
+      "Inspect the talisman",
+      "Determine if it's cursed or protective",
+      "Use or return it later"
+    ],
+    "visual_tags": [
+      "Talisman_Charm",
+      "Festival_Chase"
+    ]
+  },
+  "brick_065": {
+    "title": "Crossroads Cloaked Figure Encounter",
+    "type": "side_quest_intro",
+    "quest": "Riddle at the Crossroads",
+    "trigger": "Night fog thickens. A cloaked figure blocks the path and offers a riddle.",
+    "dialogue": {
+      "figure": "If you solve it, I step aside. If not\u2026 well, let\u2019s hope you brought a torch and a lie you still believe."
+    },
+    "riddle_trigger": true,
+    "visual_tags": [
+      "Cloaked_Figure",
+      "Riddle_Crossroads"
+    ]
+  }
+}

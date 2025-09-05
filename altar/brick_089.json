@@ -1,0 +1,12 @@
+{
+  "id": 89,
+  "title": "Whispering Trees Ritual \u2013 Tree Embrace",
+  "contents": {
+    "visual_tag": "Tree_Hug",
+    "description": "User places hands on bark, leans into silence. The tree listens. No words needed.",
+    "whisper_trigger": "Let the tree hold it",
+    "mood": "comfort",
+    "location": "Whispering Trees - Core",
+    "element": "Earth"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 83,
+  "title": "Moonlit Market - Pop-up Vendors",
+  "content": {
+    "vendors": [
+      {
+        "name": "Glimmer & Grit",
+        "wares": "Shimmering runes, handmade satchels"
+      },
+      {
+        "name": "Nox\u2019s Nibbles",
+        "wares": "Char-infused cookies, emotion-based elixirs"
+      },
+      {
+        "name": "Wand-erlust",
+        "wares": "Wands that change color based on mood"
+      }
+    ],
+    "appearance": "Randomized each moon cycle with variable stock and secret events."
+  }
+}

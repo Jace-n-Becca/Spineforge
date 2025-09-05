@@ -1,0 +1,11 @@
+{
+  "title": "Side Quest: Belladonna\u2019s Meow (final bundle)",
+  "includes": [
+    "Image confirmations",
+    "Script anchors",
+    "Quest logic tree"
+  ],
+  "status": "Locked",
+  "type": "Side Quest Package",
+  "domain": "Familiar Quests"
+}

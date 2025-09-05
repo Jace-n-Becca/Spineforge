@@ -1,0 +1,18 @@
+{
+  "id": "brick_094",
+  "category": "Shadow Work",
+  "type": "Elemental Release",
+  "description": "Whispers on the Wind \u2014 tall field grass sways while wind carries scattered thoughts, hopes, or memories.",
+  "elements": [
+    "wind",
+    "freedom",
+    "field",
+    "letting go"
+  ],
+  "visuals": [
+    "Field_Still_0.jpeg",
+    "Field_Still_1.jpeg",
+    "Field_Still_2.jpeg"
+  ],
+  "voiceover": "Some truths scatter like seeds. Let them ride the breeze."
+}

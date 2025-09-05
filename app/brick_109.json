@@ -1,0 +1,11 @@
+{
+  "type": "progress_bundle",
+  "label": "Familiar Mechanics",
+  "included": [
+    "Familiar_Index.json",
+    "Familiar_SummonLogic.json",
+    "Familiar_BondingLoss.json",
+    "SwitchFamiliar_UI.json",
+    "Familiar_CustomNames.json"
+  ]
+}

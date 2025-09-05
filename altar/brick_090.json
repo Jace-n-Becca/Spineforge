@@ -1,0 +1,15 @@
+{
+  "id": 90,
+  "title": "Whispering Trees Ritual \u2013 Completion",
+  "contents": {
+    "visual_tag": "Whispering_Trees_End",
+    "description": "A glow at the tree\u2019s base. The user chooses: release it all, or carry a crow\u2019s whisper forward.",
+    "options": [
+      "Let Go",
+      "Tell the Crows"
+    ],
+    "mood": "resolution",
+    "location": "Whispering Trees - Threshold",
+    "element": "Choice"
+  }
+}

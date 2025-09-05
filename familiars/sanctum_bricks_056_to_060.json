@@ -1,0 +1,80 @@
+{
+  "brick_056": {
+    "title": "Zodiac Tag Index",
+    "description": "A mapping system for zodiac tags and their categories used throughout the app.",
+    "data": {
+      "Fiery Firsts": [
+        "Aries",
+        "Leo",
+        "Sagittarius"
+      ],
+      "Emotional Tsunami": [
+        "Cancer",
+        "Pisces",
+        "Scorpio"
+      ],
+      "Grounded Gremlins": [
+        "Taurus",
+        "Virgo",
+        "Capricorn"
+      ],
+      "Windy Bitches": [
+        "Gemini",
+        "Libra",
+        "Aquarius"
+      ]
+    }
+  },
+  "brick_057": {
+    "title": "Familiar Switch Rules",
+    "description": "Ruleset for swapping out user-assigned familiars and the consequences.",
+    "data": {
+      "allow_switching": true,
+      "bond_penalty": "XP reset on that familiar",
+      "limit_per_month": 1,
+      "visual_warning": "Char scorches a message into the screen",
+      "soft_lore": "Familiar memories become foggy when left too long."
+    }
+  },
+  "brick_058": {
+    "title": "Lunar Forecast Trigger System",
+    "description": "Triggers Char's sass forecast and Seraphine's cosmic update based on moon phase.",
+    "data": {
+      "moon_phase_check": "Daily",
+      "forecast_delivery": [
+        "Char",
+        "Seraphine"
+      ],
+      "user_trigger_options": [
+        "New Moon Unlock",
+        "Tarot Portal Tap",
+        "Vault Visit"
+      ],
+      "lore_tie": "Moon pulls on more than tides\u2014it tugs truths loose."
+    }
+  },
+  "brick_059": {
+    "title": "Char\u2019s Sass Delivery Schedule",
+    "description": "Weekly system that controls what kind of sass or wisdom Char delivers.",
+    "data": {
+      "Mon": "Petty Curse",
+      "Tue": "Energy Drag Read",
+      "Wed": "Char\u2019s Whispers",
+      "Thu": "Mini Spell or Roast",
+      "Fri": "Mystery Forecast",
+      "Sat": "Vault Mood Read",
+      "Sun": "Random Roar (Unfiltered)"
+    }
+  },
+  "brick_060": {
+    "title": "Daily XP Reward System",
+    "description": "Gamified system rewarding user check-ins, mood tracking, and journal taps.",
+    "data": {
+      "check_in_bonus": 5,
+      "journal_entry": 10,
+      "shadow_work_done": 15,
+      "familiars_greeted": 3,
+      "max_daily_xp": 50
+    }
+  }
+}

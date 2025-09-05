@@ -1,0 +1,9 @@
+{
+  "id": "brick_075",
+  "title": "Crossroads Mechanic \u2013 Core",
+  "mechanics": {
+    "trigger": "user enters crossroads during lunar shift",
+    "event": "familiars bicker over which path to take",
+    "outcome": "user chooses a direction OR lets fate pick (random roll)"
+  }
+}

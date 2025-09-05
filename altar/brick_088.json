@@ -1,0 +1,12 @@
+{
+  "id": 88,
+  "title": "Whispering Trees Ritual \u2013 Crow Element",
+  "contents": {
+    "visual_tag": "Tell_Crows",
+    "description": "User faces a fence where crows gather. One turns its head, waiting. The moment to choose: tell the crows or let it go.",
+    "whisper_trigger": "Tell the Crows",
+    "mood": "truth",
+    "location": "Whispering Trees - Fence",
+    "element": "Spirit"
+  }
+}

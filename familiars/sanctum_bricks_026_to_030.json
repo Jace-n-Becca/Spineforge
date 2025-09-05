@@ -1,0 +1,52 @@
+{
+  "brick_026": {
+    "name": "Lunar Vault Archive Logic",
+    "description": "Controls phased unlocking of spells and content in alignment with moon cycles.",
+    "includes": [
+      "Moon phase scheduler",
+      "Locked spell metadata and trigger requirements",
+      "Vault glow effect and vault unlocking mechanic",
+      "Char\u2019s moon phase-specific quotes & reactions"
+    ]
+  },
+  "brick_027": {
+    "name": "Vault Riddle Lock System",
+    "description": "Char-delivered riddles that must be solved to access deeper vault layers or rare content.",
+    "includes": [
+      "Char\u2019s Riddle Deck (selected entries)",
+      "Correct/Incorrect answer reactions",
+      "Time lock penalties for failure",
+      "Punishments (e.g., glitter hexes, scroll jammed shut)"
+    ]
+  },
+  "brick_028": {
+    "name": "Sanctum Safe Zone Functions",
+    "description": "Controls behavior, visuals, and user interactions within the Sanctum\u2019s sacred areas.",
+    "includes": [
+      "Altar interaction logic",
+      "Sanctum message board infrastructure",
+      "Ambient shift system (seasonal & moon reactive)",
+      "Reflection triggers (quotes, questions, rituals)"
+    ]
+  },
+  "brick_029": {
+    "name": "Whispering Trees: Elemental Receivers",
+    "description": "Backend structure that receives user input and channels it to selected elements (trees, wind, water, crows).",
+    "includes": [
+      "Message routing to each element",
+      "Trigger conditions for visuals/audio",
+      "Elemental voiceover assignments",
+      "Final choice logic: Let Go / Tell the Crows"
+    ]
+  },
+  "brick_030": {
+    "name": "Witch\u2019s Warehouse Seasonal Switch",
+    "description": "Controls the visible seasonal overlay and inventory access for the Witch\u2019s Warehouse.",
+    "includes": [
+      "Sabbat-based rotation logic",
+      "Decorative asset swaps",
+      "Char\u2019s seasonal commentary script hooks",
+      "Unlock timers for hidden shelves"
+    ]
+  }
+}

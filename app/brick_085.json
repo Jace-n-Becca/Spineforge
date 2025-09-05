@@ -1,0 +1,9 @@
+{
+  "id": 85,
+  "title": "The Withering Vale - Weather Triggered Lore",
+  "content": {
+    "mechanic": "The Vale changes based on real-world weather (linked via user permission).",
+    "lore": "Fog unveils lost spirits; rain triggers ancestral voices; sun reveals hidden runes.",
+    "visuals": "Dynamic backgrounds + ambient sounds shift accordingly."
+  }
+}

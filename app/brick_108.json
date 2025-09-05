@@ -1,0 +1,11 @@
+{
+  "type": "progress_bundle",
+  "label": "Moon Mechanics & Vaults",
+  "included": [
+    "Moon_Phase_LockTriggers",
+    "LunarVault_Scroll_Access",
+    "Moonlit_Market_Randomizer",
+    "Sabbat_Gateways.json",
+    "Premature_Peeking_Triggers"
+  ]
+}

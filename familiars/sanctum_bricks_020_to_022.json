@@ -1,0 +1,41 @@
+{
+  "brick_020": {
+    "title": "Char\u2019s Sassfirmations \u2013 Pack One",
+    "category": "Dragon Wisdom",
+    "entries": [
+      "Not every spell needs sparkle\u2014some need salt.",
+      "If you're waiting for a sign, this is it. Now hex responsibly.",
+      "Witch, please. Own your power or get scorched by it.",
+      "You\u2019re not too much. They\u2019re just under-seasoned.",
+      "Don\u2019t chase. Enchant. Same effect, less sweating."
+    ]
+  },
+  "brick_021": {
+    "title": "Familiar Deck Index \u2013 Core Ten",
+    "category": "Character Index",
+    "familiars": [
+      "Puddingwing (raven)",
+      "Gristlethorne (hedgehog)",
+      "Wingston Churchill (owl)",
+      "Nocthra/Nyx (panther)",
+      "Fenwick (fox)",
+      "Wartimus (frog)",
+      "Belladonna (cat)",
+      "Mega-Byte (dragon)",
+      "Iggy Flame (dragon)",
+      "Mordecai (bat)"
+    ],
+    "note": "Each familiar has images locked and a dedicated side quest or ritual moment."
+  },
+  "brick_022": {
+    "title": "Altar Ritual \u2013 Elemental Release (Whispering Trees System)",
+    "category": "Shadow Work System",
+    "phases": [
+      "User approaches the sacred field where trees, fence, and water meet.",
+      "Element options appear: Whisper to Wind, Water, Trees, or Crows.",
+      "Each triggers a symbolic act of release. Visual: Tree_Hug, Tell_Crows, Tell_Water, Field.",
+      "Final screen: user chooses \u2018Let it go\u2019 or \u2018Tell the Crows\u2019 to lock ritual intent."
+    ],
+    "note": "Visual assets are finalized and locked across 4 series."
+  }
+}

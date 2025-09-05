@@ -1,0 +1,54 @@
+{
+  "brick_017": {
+    "title": "Sanctum Branching Paths Logic",
+    "description": "Defines user flow logic through Sanctum via symbolic paths (Moon, Tree, Flame, Tide). Includes triggers for forked outcomes, energy-based rerouting, and \u2018Rule of Three\u2019 integration.",
+    "contents": {
+      "paths": [
+        "Moon",
+        "Tree",
+        "Flame",
+        "Tide"
+      ],
+      "rules": {
+        "Rule of Three": [
+          "Atmosphere Shift",
+          "Interruption",
+          "Foreshadow/Temptation"
+        ],
+        "energy_based_redirects": true
+      },
+      "visual_nodes": true
+    }
+  },
+  "brick_018": {
+    "title": "Moonlit Market Event Engine",
+    "description": "Core framework for rotating Moonlit Market events. Includes randomized stall spawns, NPCs, item rarity rotation, lunar-cycle effects, and stall-specific triggers.",
+    "contents": {
+      "event_type": "Moonlit Market",
+      "features": [
+        "rotating vendors",
+        "rarity tables",
+        "NPC flavor scripts",
+        "moon phase influence"
+      ],
+      "trigger_conditions": [
+        "Vault open",
+        "Lunar Vault puzzle solved"
+      ]
+    }
+  },
+  "brick_019": {
+    "title": "Constellation Mapping & Lore Stars",
+    "description": "Star-mapping system linked to user progress. Unlocks constellations, each representing a lesson, spell, or NPC memory. Includes Seraphine\u2019s \u2018Sky Thread\u2019 mechanic.",
+    "contents": {
+      "sky_threads": true,
+      "unlocks": [
+        "lessons",
+        "spells",
+        "memories"
+      ],
+      "zodiac_links": true,
+      "visual_connect_the_dots": true
+    }
+  }
+}

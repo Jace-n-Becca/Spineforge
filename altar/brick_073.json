@@ -1,0 +1,27 @@
+{
+  "id": "brick_073",
+  "title": "Sanctum Unlock Tiers",
+  "tiers": {
+    "pure_free": [
+      "core spells",
+      "lunar access",
+      "basic familiar intros",
+      "community base"
+    ],
+    "dual_earn_pay": [
+      "lunar back catalogue",
+      "mentor system",
+      "hidden lore"
+    ],
+    "sacred_space": [
+      "rituals",
+      "shadow work",
+      "mental health access"
+    ],
+    "shiny_distractions": [
+      "outfits",
+      "scrolls",
+      "event mischief"
+    ]
+  }
+}

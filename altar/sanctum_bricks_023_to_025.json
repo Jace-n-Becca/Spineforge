@@ -1,0 +1,32 @@
+{
+  "brick_023": {
+    "title": "Twisted Briar Trail \u2013 Scene Triggers & Atmosphere",
+    "content": {
+      "interruption": "Flickering sigils along the trail roots glow, summoning one of the twin flame hellions.",
+      "atmosphere_shift": "Wind shifts and carries laughter in reverse, path darkens with dripping moss.",
+      "foreshadow": "User sees a reflection of themselves in a puddle, but the eyes belong to someone else."
+    }
+  },
+  "brick_024": {
+    "title": "Altar Basin \u2013 Ritual Interaction",
+    "content": {
+      "sequence": [
+        "Approach altar: incense lights automatically.",
+        "User breath slows to match flickering flames.",
+        "A question is whispered\u2014not asked aloud, but felt internally."
+      ],
+      "response": "Altar glows faint silver, then fades, leaving behind a phrase scratched into nearby stone."
+    }
+  },
+  "brick_025": {
+    "title": "Crossroads \u2013 Hidden Quest Logic",
+    "content": {
+      "trigger_condition": "Only appears if a user has completed 3+ side quests and visited 2 familiars.",
+      "event": "Mysterious cloaked figure offers a riddle that changes based on moon phase.",
+      "outcome_options": [
+        "Answer correctly: receive a lunar key fragment.",
+        "Answer poorly: you're marked by a shimmer that other NPCs react to."
+      ]
+    }
+  }
+}

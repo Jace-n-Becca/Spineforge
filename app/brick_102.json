@@ -1,0 +1,11 @@
+{
+  "title": "Lunar Vault - Moon Phases Expanded",
+  "includes": [
+    "New Scales",
+    "Mood Sync",
+    "Moon-triggered spells"
+  ],
+  "status": "Live",
+  "type": "Interactive System Layer",
+  "domain": "Lunar Vault"
+}

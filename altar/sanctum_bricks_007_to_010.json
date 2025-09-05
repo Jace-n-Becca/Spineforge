@@ -1,0 +1,18 @@
+{
+    "brick_007": {
+        "title": "User-Familiar Pairing Logic",
+        "description": "Defines logic for pairing users with familiars based on quizzes, emotional states, and moon phase timing."
+    },
+    "brick_008": {
+        "title": "Familiar Assignment System",
+        "description": "Handles core mechanics of assigning a familiar to a user, includes full moon override and user mood alignment."
+    },
+    "brick_009": {
+        "title": "Path Mechanics",
+        "description": "Outlines travel system between zones (e.g. Twisted Briar Trail, Crossroads) and rituals like Whispering Trees."
+    },
+    "brick_010": {
+        "title": "Sanctum Rituals",
+        "description": "Contains ritual triggers tied to moon phases, emotional states, and interactions at the Sanctum altar."
+    }
+}

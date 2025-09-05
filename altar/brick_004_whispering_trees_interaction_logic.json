@@ -1,0 +1,48 @@
+{
+  "brick_id": "brick_004",
+  "title": "Whispering Trees \u2013 User Ritual Interaction Logic",
+  "description": "Behavior logic and mood interaction scaffolding for the Whispering Trees ritual experience. Includes elemental selection, symbolic release, and final moment logic.",
+  "version": "1.0",
+  "category": "ritual_logic",
+  "app_module": "shadow_work_whispering_trees",
+  "content": {
+    "entry_point": "Tree field sways; user prompted to approach central tree",
+    "ritual_steps": [
+      {
+        "step": 1,
+        "name": "Element Selection",
+        "options": [
+          "Wind",
+          "Water",
+          "Crows",
+          "Tree"
+        ]
+      },
+      {
+        "step": 2,
+        "name": "Whisper Phase",
+        "description": "User releases a whisper/intention/thought to selected element"
+      },
+      {
+        "step": 3,
+        "name": "Element Response",
+        "audio_feedback": true,
+        "visual_cue": true
+      },
+      {
+        "step": 4,
+        "name": "Final Choice",
+        "description": "Let go or Tell the Crows",
+        "affects_user_journal": true
+      }
+    ],
+    "mood_response_logic": {
+      "low_energy": "Tree glow dims, whisper echoes softly",
+      "high_anxiety": "Wind howls, leaves scatter violently",
+      "balanced": "Water ripple glows gently",
+      "grief": "Crows land gently, head tilt, subtle cawing"
+    },
+    "user_journal_trigger": true,
+    "repeatable": false
+  }
+}

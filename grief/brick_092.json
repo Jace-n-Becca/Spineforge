@@ -1,0 +1,18 @@
+{
+  "id": "brick_092",
+  "category": "Shadow Work",
+  "type": "Elemental Release",
+  "description": "Tell the Crows \u2014 user chooses to send their unspoken truth to the crows, who carry it across the sky.",
+  "elements": [
+    "crows",
+    "air",
+    "secrecy",
+    "release"
+  ],
+  "visuals": [
+    "Tell_Crows_0.jpeg",
+    "Tell_Crows_1.jpeg",
+    "Tell_Crows_2.jpeg"
+  ],
+  "voiceover": "Whisper it to the wings. Crows remember. Crows deliver."
+}

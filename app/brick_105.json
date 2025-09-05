@@ -1,0 +1,11 @@
+{
+  "title": "Seraphine\u2019s Synchronicities \u2013 Starstone Lore",
+  "includes": [
+    "Lore drop",
+    "Unlock mechanic",
+    "Crystal animation cue"
+  ],
+  "status": "Integrated",
+  "type": "Lore/Narrative Item",
+  "domain": "Seraphine\u2019s Domain"
+}

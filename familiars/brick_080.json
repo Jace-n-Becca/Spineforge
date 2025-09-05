@@ -1,0 +1,13 @@
+{
+  "id": 80,
+  "title": "The Whisper Market",
+  "type": "event",
+  "summary": "A Moonlit Market pop-up that only appears when users trade secrets.",
+  "location": "Crossroads",
+  "trigger": "User confesses a truth during a side quest",
+  "features": [
+    "Secret-activated stall",
+    "Trade a truth for a trinket",
+    "Char sniffs the air for lies"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 86,
+  "title": "Whispering Trees Ritual \u2013 Wind Element",
+  "contents": {
+    "visual_tag": "Field_Wind",
+    "description": "User stands in tall grass. The wind carries their words across the field. The tree line shivers as if listening.",
+    "whisper_trigger": "Let go to the breeze",
+    "mood": "release",
+    "location": "Whispering Trees - Field",
+    "element": "Air"
+  }
+}

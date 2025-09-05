@@ -1,0 +1,120 @@
+{
+  "brick_046": {
+    "title": "The Night Orchard",
+    "type": "Side Quest",
+    "location": "Edge of Withering Vale",
+    "triggers": [
+      "Full Moon",
+      "Nyx chosen as familiar",
+      "User pauses at the forgotten orchard gate"
+    ],
+    "summary": "A grove of fruit-bearing trees once tended by witches who spoke only in dreams. Nyx paces at the edge of the fence. She\u2019s uneasy. The trees hum with memory, and a silvery fruit dangles low. The user may eat it, bury it, or gift it to the moon.",
+    "outcomes": [
+      "Eaten: Induces lucid dream revealing hidden memory or fear.",
+      "Buried: Later grows into Moonvine used in advanced spellwork.",
+      "Gifted: Char offers rare lunar lore or riddle."
+    ],
+    "assets": [
+      "Whispering tree canopy",
+      "Moon-fruit close-up",
+      "Fence and fog visuals"
+    ],
+    "linked_features": [
+      "Shadow Work",
+      "Whispering Trees",
+      "Familiar Deep Bonding"
+    ]
+  },
+  "brick_047": {
+    "title": "Crossroads Curiosity",
+    "type": "Mini Event",
+    "location": "Crossroads",
+    "triggers": [
+      "User lingers for over 60 seconds without choosing a path"
+    ],
+    "summary": "The shadows behind each trail animate slightly, and a crow with a scroll tied to its leg lands near the user. The scroll says, 'Choose, or be chosen.'",
+    "outcomes": [
+      "User picks a direction: Path illuminates briefly.",
+      "User still waits: Random familiar (not theirs) appears to guide them... or confuse them."
+    ],
+    "assets": [
+      "Crossroads fog variants",
+      "Crow delivery animation",
+      "Scroll script variations"
+    ],
+    "linked_features": [
+      "Path Mechanic",
+      "Whimsy Trigger System"
+    ]
+  },
+  "brick_048": {
+    "title": "Wartimus\u2019 Warning",
+    "type": "Tavern Rumor",
+    "location": "Brasshoof\u2019s Tavern",
+    "triggers": [
+      "User selects pickle barrel twice in one visit"
+    ],
+    "summary": "A scroll pops loose from the briney depths. Wartimus has scribbled a warning: 'The dill is a decoy.' A small map is drawn on the back.",
+    "outcomes": [
+      "User follows map: Leads to alternate lantern festival start point.",
+      "User ignores: Wartimus appears 2 visits later and demands to know why."
+    ],
+    "assets": [
+      "Pickle barrel close-up",
+      "Doodle map",
+      "Wartimus angry/emphatic visuals"
+    ],
+    "linked_features": [
+      "The Dilluminati Files",
+      "Lantern Festival Trick"
+    ]
+  },
+  "brick_049": {
+    "title": "Sass & Scale: Vault Riddle",
+    "type": "Lunar Vault Interaction",
+    "location": "Lunar Vault Gate",
+    "triggers": [
+      "Waning Crescent",
+      "User asks Char a direct question"
+    ],
+    "summary": "Char challenges the user with a riddle. The answer is tied to an emotion the user may be avoiding. Getting it wrong triggers her sassiest retort of the week.",
+    "outcomes": [
+      "Correct: Unlocks access to moonstone cache.",
+      "Incorrect: Vault stays closed, Char logs it as a \u2018teachable moment\u2019."
+    ],
+    "assets": [
+      "Vault glow animations",
+      "Char side-eye expression",
+      "Riddle scroll art"
+    ],
+    "linked_features": [
+      "Char\u2019s Riddle Deck",
+      "Vault Lock/Unlock States",
+      "Emotion Tracking System"
+    ]
+  },
+  "brick_050": {
+    "title": "Whispering Trees: Crows\u2019 Return",
+    "type": "Ritual Follow-Up",
+    "location": "Field/Fence/Wind",
+    "triggers": [
+      "User chooses to \u2018Tell the Crows\u2019",
+      "3 days have passed since initial ritual"
+    ],
+    "summary": "Crows return bearing small tokens\u2014buttons, rings, pebbles. They drop one near the user and fly off. Symbolic meaning is randomized but emotionally anchored.",
+    "outcomes": [
+      "Token becomes part of user\u2019s altar inventory.",
+      "Triggers a dream journal entry from a Familiar."
+    ],
+    "assets": [
+      "Crow flight loop",
+      "Token table",
+      "Fence at sunset"
+    ],
+    "linked_features": [
+      "Shadow Work: Whispering Trees",
+      "Altar Inventory System",
+      "Familiar Lore Drops"
+    ]
+  }
+}

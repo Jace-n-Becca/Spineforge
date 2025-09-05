@@ -1,0 +1,15 @@
+{
+  "id": 76,
+  "title": "The Starless Vault",
+  "type": "lore",
+  "summary": "Lore entry about a forbidden archive under the Sanctum where lost spells are imprisoned.",
+  "location": "Sanctum - Hidden Wing",
+  "characters": [
+    "Aster",
+    "Char"
+  ],
+  "trigger": "Moonless night + specific user behavior",
+  "content": {
+    "entry": "The Starless Vault is whispered of in glances, not voices. It holds the uncast spells\u2014too volatile or too sorrowful to see light. Each one has a name. And a heartbeat."
+  }
+}

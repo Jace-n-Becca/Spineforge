@@ -1,0 +1,73 @@
+{
+  "id": "ritual.whispering_trees",
+  "name": "Whispering Trees Ritual",
+  "category": "Shadow Work System",
+  "status": "locked",
+  "triggers": {
+    "location": "Sanctum - Altar Grove",
+    "moon_phase": "Any",
+    "time": "user-defined"
+  },
+  "visual_sequence": [
+    {
+      "id": "tree_hug",
+      "tag": "grounding",
+      "image_set": "Tree_Hug",
+      "description": "User approaches a sacred tree. Prompts appear: 'Place your hand on the bark. Feel it remember.'"
+    },
+    {
+      "id": "wind_whisper",
+      "tag": "release",
+      "image_set": "Field",
+      "description": "Wind picks up as user hears their own voice whispering back. Textbox: 'Tell the wind what you've hidden.'"
+    },
+    {
+      "id": "water_reflection",
+      "tag": "mirror",
+      "image_set": "Tell_Water",
+      "description": "User sees stars reflected in water. Prompt: 'Speak what you cannot say aloud. Watch it ripple away.'"
+    },
+    {
+      "id": "crows_listen",
+      "tag": "carry",
+      "image_set": "Tell_Crows",
+      "description": "Crows gather on fenceposts. One caws. Prompt: 'Tell them what must be carried away for you.'"
+    }
+  ],
+  "final_choice": {
+    "options": [
+      {
+        "id": "let_go",
+        "text": "Release into the roots. You are done here."
+      },
+      {
+        "id": "tell_the_crows",
+        "text": "Let them carry it skyward. You are not done, but you are not alone."
+      }
+    ]
+  },
+  "audio_layers": {
+    "ambient": "whispers + forest wind + soft crow calls",
+    "transition": "subtle heartbeat thrum + hush tones"
+  },
+  "storage": {
+    "emotional_marker": true,
+    "user_journal_entry": true,
+    "ritual_log": {
+      "timestamped": true,
+      "retrievable": true
+    }
+  },
+  "interlinks": [
+    "altar.sanctum_entry",
+    "shadowwork.index",
+    "familiar.reflective_responses"
+  ],
+  "locked_visuals": [
+    "Tree_Hug_0-7",
+    "Tell_Crows_0-7",
+    "Tell_Water_0-7",
+    "Field_0-5"
+  ],
+  "notes": "All visuals confirmed and linked to ritual branches. No additional assets needed unless optional audio becomes immersive. Ready for user testing or final audio embedding."
+}

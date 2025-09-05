@@ -1,0 +1,12 @@
+{
+  "id": 87,
+  "title": "Whispering Trees Ritual \u2013 Water Element",
+  "contents": {
+    "visual_tag": "Tell_Water",
+    "description": "User kneels by water, releasing thoughts into reflection. Words ripple and vanish into stars.",
+    "whisper_trigger": "Whisper to the Water",
+    "mood": "reflection",
+    "location": "Whispering Trees - Water",
+    "element": "Water"
+  }
+}
