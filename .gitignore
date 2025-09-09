@@ -1,5 +1,4 @@
 # Ignore archive bundles
-*.zip
 *.tar
 *.gz
 
